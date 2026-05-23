@@ -12,7 +12,7 @@ Proje ortamının kurulumu için Fatih Büşra ve Davut tarafından hazırlanmı
     <img width="892" height="494" alt="factory_2d" src="https://github.com/user-attachments/assets/4f2f7ef4-222a-4709-9365-93110c36d36a" />
   </div>
   <p style="margin-top: 10px;">
-    <i>2D Visualization using pygame</i>
+    <i>pygame ile 2 boyutlu görselleştirme</i>
   </p>
 </div>
 
@@ -24,7 +24,7 @@ Proje ortamının kurulumu için Fatih Büşra ve Davut tarafından hazırlanmı
     <img width="1160" height="684" alt="factory_3d" src="https://github.com/user-attachments/assets/b88b02cb-0e8b-4d7b-a811-d5a733483fe1" />
   </div>
   <p style="margin-top: 10px;">
-    <i>3D Visualization using RViz2</i>
+    <i>RViz2 ile 3 boyutlu görselleştirme</i>
   </p>
 </div>
 
