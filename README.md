@@ -1,6 +1,6 @@
 # factory-sim
 Otonom üretim hattını simüle eden ROS2 tabanlı bir simülasyon.
-
+Simülasyonun görselleştirilmesi için; 2 boyutlu olarak pygame, 3 boyutlu olarak ise RViz2 kullanılmaktadır.
 
 Proje ortamının kurulumu için Fatih Büşra ve Davut tarafından hazırlanmış bir <a href="https://www.notion.so/Windows-zerinde-WSL-de-ROS-2-kurulumu-ve-kullan-m-3173a84cb5d180bc84e8fb37c6d04953" target="_blank"><b>Türkçe rehber.</b></a>
 
